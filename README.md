@@ -1,4 +1,4 @@
-# EstudoDjango
+# Hello_Proj
 ## Requisitos
 
 - **Django**: Framework web para desenvolvimento em Python.
@@ -11,7 +11,7 @@ Siga os passos abaixo para configurar o ambiente virtual e executar o servidor l
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/cauamapurunga/hello_app.git
+   git clone https://github.com/WeyneG/Hellow_proj.git
    ```
 
 2. Ative o ambiente virtual:
